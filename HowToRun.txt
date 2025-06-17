@@ -1,0 +1,11 @@
+2 References
+1. Reference
+   - Git repo: https://github.com/manhminno/Gun-Detection-In-Photos-Videos/tree/master/Gun-Detection
+   - How to run
+     - python3 infer2.py -i gun_per.jpg -c yolov3_testing2.cfg -w yolov3_training_2000.weights -cl yolo.names
+
+2. Reference
+   - Git repo: https://github.com/Manish8798/Weapon-Detection-with-yolov3
+   - How to run
+     - conda activate weapon-detection
+     - python3 infere.py
